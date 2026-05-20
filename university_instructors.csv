@@ -1,0 +1,81 @@
+instructor_id,department_id,first_name,last_name,email,hire_date,position,salary,is_tenured
+1,2,Maria,Lee,maria.lee1@university.example,2011-02-01,Professor,107799.55,false
+2,1,Laura,Wilson,laura.wilson2@university.example,2011-05-27,Lecturer,46304.02,false
+3,10,Olga,Clark,olga.clark3@university.example,2012-02-27,Assistant Professor,43665.95,true
+4,5,Maria,Johnson,maria.johnson4@university.example,2019-09-20,Assistant Professor,70410.10,false
+5,6,John,Garcia,john.garcia5@university.example,2013-12-26,Associate Professor,93614.01,true
+6,10,John,Wilson,john.wilson6@university.example,2018-03-06,Associate Professor,53072.20,false
+7,5,James,Johnson,james.johnson7@university.example,2017-09-05,Professor,107428.15,true
+8,4,Alex,Garcia,alex.garcia8@university.example,2014-07-02,Professor,45295.09,false
+9,4,Laura,Lee,laura.lee9@university.example,2019-12-03,Lecturer,51429.73,true
+10,4,James,Wilson,james.wilson10@university.example,2012-12-12,Researcher,74274.71,false
+11,6,Anna,Smith,anna.smith11@university.example,2015-09-19,Lecturer,47272.75,true
+12,2,John,Smith,john.smith12@university.example,2018-11-19,Lecturer,87712.72,false
+13,7,Kate,Taylor,kate.taylor13@university.example,2015-12-08,Professor,117686.27,true
+14,2,James,Brown,james.brown14@university.example,2018-08-15,Professor,48924.17,false
+15,3,Laura,Ivanov,laura.ivanov15@university.example,2018-02-05,Professor,117751.05,true
+16,9,Maria,Brown,maria.brown16@university.example,2019-06-10,Researcher,88717.62,true
+17,6,John,Wilson,john.wilson17@university.example,2018-09-25,Researcher,113479.48,false
+18,8,Alex,Petrova,alex.petrova18@university.example,2014-01-26,Professor,59156.18,true
+19,10,Maria,Petrova,maria.petrova19@university.example,2018-03-17,Lecturer,105281.86,true
+20,3,Laura,Wilson,laura.wilson20@university.example,2011-11-08,Professor,82213.90,false
+21,4,James,Johnson,james.johnson21@university.example,2017-12-30,Professor,71919.38,false
+22,8,James,Taylor,james.taylor22@university.example,2011-05-11,Associate Professor,57975.79,false
+23,1,Kate,Wilson,kate.wilson23@university.example,2012-07-31,Researcher,57617.39,true
+24,1,Anna,Petrova,anna.petrova24@university.example,2010-05-09,Professor,45668.59,true
+25,5,Laura,Johnson,laura.johnson25@university.example,2016-01-18,Associate Professor,97868.21,false
+26,4,Laura,Lee,laura.lee26@university.example,2012-02-19,Assistant Professor,47754.47,false
+27,6,Dmitri,Lee,dmitri.lee27@university.example,2015-03-28,Assistant Professor,93869.16,true
+28,1,Dmitri,Garcia,dmitri.garcia28@university.example,2018-12-24,Assistant Professor,59892.51,true
+29,9,Laura,Smith,laura.smith29@university.example,2014-09-25,Associate Professor,62283.61,true
+30,2,Laura,Wilson,laura.wilson30@university.example,2011-02-06,Assistant Professor,92171.59,true
+31,2,Anna,Smith,anna.smith31@university.example,2014-07-23,Lecturer,78508.67,false
+32,1,John,Lee,john.lee32@university.example,2010-01-09,Lecturer,61216.24,false
+33,5,Dmitri,Wilson,dmitri.wilson33@university.example,2017-06-04,Lecturer,52383.75,false
+34,4,Alex,Clark,alex.clark34@university.example,2018-04-02,Researcher,44876.61,false
+35,1,Alex,Clark,alex.clark35@university.example,2015-05-07,Researcher,113550.97,true
+36,1,James,Petrova,james.petrova36@university.example,2019-07-20,Associate Professor,45481.71,true
+37,4,Dmitri,Petrova,dmitri.petrova37@university.example,2019-12-26,Researcher,59697.23,true
+38,10,Maria,Lee,maria.lee38@university.example,2017-05-16,Researcher,85218.15,false
+39,5,Anna,Garcia,anna.garcia39@university.example,2012-09-04,Professor,71662.87,false
+40,8,Olga,Petrova,olga.petrova40@university.example,2010-02-08,Lecturer,89692.74,true
+41,2,James,Johnson,james.johnson41@university.example,2015-09-04,Professor,50596.53,false
+42,2,Anna,Garcia,anna.garcia42@university.example,2013-03-13,Associate Professor,75054.77,false
+43,10,James,Ivanov,james.ivanov43@university.example,2017-06-28,Researcher,63950.30,true
+44,3,Peter,Petrova,peter.petrova44@university.example,2019-12-24,Assistant Professor,99393.33,true
+45,5,Peter,Clark,peter.clark45@university.example,2012-05-12,Professor,56287.78,false
+46,9,Laura,Brown,laura.brown46@university.example,2019-06-28,Assistant Professor,47383.88,false
+47,5,Alex,Ivanov,alex.ivanov47@university.example,2013-09-28,Associate Professor,90969.07,false
+48,3,Laura,Wilson,laura.wilson48@university.example,2017-11-30,Lecturer,84872.55,true
+49,2,John,Wilson,john.wilson49@university.example,2010-05-28,Professor,86600.77,true
+50,7,John,Ivanov,john.ivanov50@university.example,2013-06-16,Professor,111918.52,true
+51,6,Anna,Johnson,anna.johnson51@university.example,2017-06-24,Assistant Professor,68294.29,false
+52,10,John,Johnson,john.johnson52@university.example,2019-09-12,Associate Professor,118096.48,true
+53,7,Alex,Smith,alex.smith53@university.example,2018-04-05,Professor,102590.92,false
+54,4,Peter,Smith,peter.smith54@university.example,2018-10-31,Assistant Professor,70603.34,true
+55,8,Anna,Johnson,anna.johnson55@university.example,2019-02-27,Lecturer,67972.67,true
+56,4,Alex,Johnson,alex.johnson56@university.example,2014-06-21,Professor,62288.24,true
+57,5,Olga,Wilson,olga.wilson57@university.example,2014-06-26,Researcher,66491.99,true
+58,2,Peter,Smith,peter.smith58@university.example,2016-07-06,Professor,43060.58,false
+59,6,Olga,Lee,olga.lee59@university.example,2016-10-19,Researcher,49251.66,true
+60,5,Alex,Lee,alex.lee60@university.example,2010-01-07,Researcher,114046.01,true
+61,6,Dmitri,Petrova,dmitri.petrova61@university.example,2017-06-13,Professor,89852.43,true
+62,5,James,Brown,james.brown62@university.example,2017-06-24,Lecturer,66094.63,false
+63,9,John,Johnson,john.johnson63@university.example,2014-09-19,Lecturer,94185.44,true
+64,10,Kate,Brown,kate.brown64@university.example,2014-07-22,Researcher,106698.01,false
+65,5,Anna,Lee,anna.lee65@university.example,2018-10-24,Researcher,88532.93,false
+66,8,Laura,Taylor,laura.taylor66@university.example,2017-07-30,Associate Professor,80893.92,true
+67,2,Peter,Wilson,peter.wilson67@university.example,2017-06-12,Researcher,66815.06,true
+68,5,Anna,Johnson,anna.johnson68@university.example,2011-08-27,Assistant Professor,43697.10,false
+69,10,Maria,Taylor,maria.taylor69@university.example,2014-08-25,Researcher,55554.82,false
+70,8,Dmitri,Johnson,dmitri.johnson70@university.example,2011-08-28,Assistant Professor,111412.79,true
+71,7,Anna,Smith,anna.smith71@university.example,2019-01-07,Researcher,77163.99,true
+72,2,Laura,Smith,laura.smith72@university.example,2018-12-27,Lecturer,93406.22,false
+73,8,Kate,Wilson,kate.wilson73@university.example,2014-10-14,Researcher,75673.09,true
+74,8,Laura,Brown,laura.brown74@university.example,2018-06-07,Associate Professor,107189.03,false
+75,9,Laura,Johnson,laura.johnson75@university.example,2013-01-29,Lecturer,46198.67,false
+76,4,Peter,Garcia,peter.garcia76@university.example,2013-08-02,Researcher,46446.21,true
+77,4,Dmitri,Smith,dmitri.smith77@university.example,2017-12-03,Associate Professor,45138.31,false
+78,6,James,Taylor,james.taylor78@university.example,2014-08-31,Assistant Professor,56546.75,false
+79,7,Kate,Ivanov,kate.ivanov79@university.example,2019-08-11,Researcher,70430.48,true
+80,6,Peter,Lee,peter.lee80@university.example,2019-07-28,Lecturer,83057.65,true

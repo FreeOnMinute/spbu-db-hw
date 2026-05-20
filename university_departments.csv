@@ -1,0 +1,11 @@
+department_id,name,building,budget,created_at,is_active
+1,Computer Science,Building A,1350968.24,2010-04-13,true
+2,Mathematics,Building B,640805.34,2011-07-26,true
+3,Physics,Building C,1418059.08,2016-02-12,true
+4,Chemistry,Building D,1262886.52,2010-05-11,true
+5,Biology,Building E,368651.43,2012-08-10,true
+6,Economics,Building F,1210241.11,2018-01-11,false
+7,History,Building G,596793.12,2016-08-10,true
+8,Linguistics,Building H,1656974.82,2010-01-27,true
+9,Psychology,Building I,1456650.91,2013-10-25,true
+10,Philosophy,Building J,479863.10,2018-07-25,true
